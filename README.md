@@ -2,7 +2,7 @@
 Clustering colors in Python
 
 ## Getting started
-For data that can be represented as points in the plane, you can choose as a dividing property, the distance between them or to given points.
+For data that can be represented as points in the plane, you can choose as a `dividing property`, the distance between them or to given points.
 
 <img src="/screenshots/screenshot1.PNG" width="500">
 
